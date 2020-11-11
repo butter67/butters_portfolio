@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1696 636" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Greeting" transform="matrix(1.00952,0,0,0.605714,0,0)">
+        <rect x="0" y="0" width="1680" height="1050" style="fill:none;"/>
+        <g transform="matrix(0.990566,0,0,1.65094,-256.557,62.0497)">
+            <text x="276.73px" y="372.001px" style="font-family:'QUIRKYSPRINGOutline', 'QUIRKY SPRING';font-size:320px;fill:rgb(215,119,153);">H</text>
+            <text x="532.09px" y="372.001px" style="font-family:'QUIRKYSPRINGOutline', 'QUIRKY SPRING';font-size:320px;fill:rgb(212,144,23);">e</text>
+            <text x="730.17px" y="372.001px" style="font-family:'QUIRKYSPRINGOutline', 'QUIRKY SPRING';font-size:320px;fill:rgb(66,108,101);">l</text>
+            <text x="926.65px" y="372.001px" style="font-family:'QUIRKYSPRINGOutline', 'QUIRKY SPRING';font-size:320px;fill:rgb(52,108,89);">l</text>
+            <text x="1123.13px" y="372.001px" style="font-family:'QUIRKYSPRINGOutline', 'QUIRKY SPRING';font-size:320px;fill:rgb(198,74,107);">o</text>
+        </g>
+        <g transform="matrix(0.990566,0,0,1.65094,21.7925,-466.539)">
+            <text x="1025.4px" y="778.007px" style="font-family:'NothingYouCouldDo', 'Nothing You Could Do';font-size:268px;fill:rgb(54,33,0);">there</text>
+        </g>
+    </g>
+</svg>

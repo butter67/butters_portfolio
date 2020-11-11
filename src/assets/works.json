@@ -1,0 +1,50 @@
+[
+    {
+    "slug": "ページ URL",
+    "title": "作品のタイトル ",
+    "year": "制作年 ",
+    "description": "作品の 1 行解説 ",
+    "text": "作品の詳しめ解説 ",
+    "role": "自分の担当 ",
+    "urlTitle": "参照 URL に対してのタイトル ", "url": " 参照 URL",
+    "picture" : [
+    {
+    "id": "1",
+    "path": "image/logo.png"
+    }, 
+    {
+    "id": "2",
+    "path": "??"
+    },
+    {
+    "id": "3",
+    "path": "Google Drive にアップした画像 URL" 
+    }
+  ]
+},
+{
+  "slug": "変わったかな？",
+  "title": "作品のタイトル ",
+  "year": "制作年 ",
+  "description": "作品の 1 行解説 ",
+  "text": "作品の詳しめ解説 ",
+  "role": "自分の担当 ",
+  "urlTitle": "参照 URL に対してのタイトル ", "url": " 参照 URL",
+  "picture" : [
+  {
+  "id": "1",
+  "path": "Google Drive にアップした画像 URL"
+  }, 
+  {
+  "id": "2",
+  "path": "https://nge.jp/wp-content/uploads/2015/02/shutterstock_128724608-1-690x491.jpg"
+  },
+  {
+  "id": "3",
+  "path": "Google Drive にアップした画像 URL" 
+  }
+]
+}
+
+
+]
